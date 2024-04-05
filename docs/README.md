@@ -12,3 +12,4 @@
 * [springboot代码生成器](2.md)
 * [验证码生成](3.md)
 * [redis和springboot的整合操作](4.md)
+* [springAi初体验](5.md)
