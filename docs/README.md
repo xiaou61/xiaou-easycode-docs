@@ -13,3 +13,4 @@
 * [验证码生成](3.md)
 * [redis和springboot的整合操作](4.md)
 * [springAi初体验](5.md)
+* [requestbody requestparam pathvariable前端端实战，让你彻底了解如何传值](6.md)
